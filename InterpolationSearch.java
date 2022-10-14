@@ -2,7 +2,7 @@ package advancedAlgorithmAssignment;
 import java.util.*;
 /**
  * @title InterpolationSearch
- * @author Sepehr Rajabian
+ * @author Sep
  * @date Apr 9, 2022
  * @desc This program can return the index value of a value that is desired to be searched and can show the lower and upper
  * bounds of where that value occurs in the ordered array. 
